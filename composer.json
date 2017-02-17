@@ -1,0 +1,13 @@
+{
+    "name": "notonpaper/gidesign-theme",
+    "description": "Theme for gi.nl",
+    "type": "october-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lex Lemmens",
+            "email": "lex@notonpaper.nl"
+        }
+    ],
+    "require": {}
+}
